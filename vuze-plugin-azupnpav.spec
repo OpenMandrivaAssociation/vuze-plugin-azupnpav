@@ -13,6 +13,7 @@ Patch0:		azupnpav-remove-win32.patch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	vuze
 BuildRequires:	java-rpmbuild
+BuildRequires:	ant
 Requires:	vuze
 BuildArch:      noarch
 
