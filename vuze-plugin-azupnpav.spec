@@ -3,7 +3,7 @@
 
 Name:		vuze-plugin-%plugin
 Version:	0.2.23
-Release:	%mkrel 1
+Release:	2
 Summary:	Vuze plugin: Media Server
 Group:		Networking/File transfer
 License:	GPLv2+
